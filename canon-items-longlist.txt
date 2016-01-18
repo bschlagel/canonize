@@ -387,16 +387,17 @@ http://brianbailey.me/a-community-of-possibilities/
 
 GiveWell
 http://www.givewell.org/
-Rigorous, data-backed giving — kind of the Effective Altruism version of Charity Navigator.
 
 Y Combinator Requests for Startups
 https://www.ycombinator.com/rfs/
-Big categories ripe for disruption…
+
+Hacker News
+https://news.ycombinator.com/
 
 Experiment — Journal of Results
 https://experiment.com/journal
-Scientific results from publicly funded research…
 
+Lessons From Berkman Fellows
 http://berkmanlessons.net/
 
 A History of the Future in 100 Objects
@@ -406,23 +407,31 @@ Harvard Metalab
 http://metalab.harvard.edu/
 
 MIT Media Lab
+http://www.media.mit.edu/
 
 Coudal Partners
 http://www.coudal.com/ + http://www.coudal.com/moom/
 
 Ribbonfarm
+http://www.ribbonfarm.com/
 
 Mandy Brown's A Working Library
+http://aworkinglibrary.com/
 
 David Cole's Personal Canon
+http://davidcole.me/canon/
 
-Bret Victor…
+Bret Victor
+http://worrydream.com/
 
-Kevin Kelly…
+Kevin Kelly
+http://kk.org/
 
-Craig Mod…
+Craig Mod
+http://craigmod.com/
 
-Jonathan Harris…
+Jonathan Harris
+http://number27.org/
 
 Language is a Virus
 http://www.languageisavirus.com/
@@ -449,17 +458,63 @@ Buster Benson's Codex Vitae
 https://github.com/busterbenson/public/blob/master/Codex.md
 
 Pioneer Works
+http://pioneerworks.org/
 
 Uncommon
 https://uncommon.cc/
 
 The Long Now
+http://longnow.org/
+
+The Serving Library
+http://www.servinglibrary.org/
+
+Bldg Blog
+http://www.bldgblog.com/
+
+Cabinet Magazine
+http://www.cabinetmagazine.org/
+
+Nicholas Felton
+http://feltron.com/
 
 
 
 ### FILM / VIDEO
 
 Wild Strawberries
+The Wizard of Oz
+The Cabinet of Dr. Caligari
+Rear Window
+M.
+The 400 Blows
+12 Angry Men
+Rosemary's Baby
+Toy Story
+The Terminator
+Let the Right One In
+Blade Runner
+Jaws
+Gladiator
+Pulp Fiction
+The Shining
+Fantasia
+Pan's Labyrinth
+The Triplets of Belleville
+Delicatessen
+The City of Lost Children
+Spirited Away
+Nausicaä of the Valley of the Wind
+Toy Story
+Memento
+The Good, the Bad and the Ugly
+City of God
+The Matrix
+City Lights
+Die Hard
+Diabolique
+Hoop Dreams
+Man With a Movie Camera
 
 
 
