@@ -1,10 +1,13 @@
 Brendan Schlagel
 Personal Canon — Longlist
-January 2016
+February 2016
 
 
 
-### BOOKS
+### BOOKS [38]
+
+Redwall
+https://www.goodreads.com/book/show/7996.Redwall
 
 His Dark Materials
 https://www.goodreads.com/book/show/18116.His_Dark_Materials
@@ -121,7 +124,7 @@ https://www.goodreads.com/book/show/178729.Summerhill_School
 
 
 
-### ARTICLES
+### ARTICLES [86]
 
 Building BrooklynJS
 https://github.com/jed/building-brooklynjs
@@ -129,6 +132,7 @@ https://github.com/jed/building-brooklynjs
 The Website Obesity Crisis
 http://idlewords.com/talks/website_obesity.htm
 
+On the Spline: A Brief History of the Computational Curve
 http://www.alatown.com/spline-history-architecture/
 Amazing history of an object that combines design + computation.
 
@@ -383,7 +387,7 @@ http://brianbailey.me/a-community-of-possibilities/
 
 
 
-### WEBSITES
+### WEBSITES [36]
 
 GiveWell
 http://www.givewell.org/
@@ -478,9 +482,24 @@ http://www.cabinetmagazine.org/
 Nicholas Felton
 http://feltron.com/
 
+Everything2
+http://everything2.com/
+
+Whole Earth Catalog
+http://www.wholeearth.com/index.php
+
+Visual Complexity
+http://www.visualcomplexity.com/vc/
+
+Significant Objects
+http://significantobjects.com/
+
+The Phrontistery
+http://phrontistery.info/
 
 
-### FILM / VIDEO
+
+### FILM / VIDEO [32]
 
 Wild Strawberries
 The Wizard of Oz
@@ -490,7 +509,6 @@ M.
 The 400 Blows
 12 Angry Men
 Rosemary's Baby
-Toy Story
 The Terminator
 Let the Right One In
 Blade Runner
@@ -518,7 +536,7 @@ Man With a Movie Camera
 
 
 
-### MUSIC
+### MUSIC [25]
 
 Miles Davis — Kind of Blue
 Wayne Shorter — High Life
@@ -543,30 +561,42 @@ Eminem — The Slim Shady LP
 The Antlers — Hospice
 The Streets — A Grand Don't Come For Free
 Jay-Z — Reasonable Doubt
-A Tribe Called Quest
-The Roots
+A Tribe Called Quest - The Low End Theory
+The Roots - Things Fall Apart (?)
 
 
 
-### IDEAS / WIKIPEDIA
+### IDEAS / WIKIPEDIA [31]
 
-http://en.wikipedia.org/wiki/Gaia_hypothesis
-http://en.wikipedia.org/wiki/Heutagogy
-https://en.wikipedia.org/wiki/Spime
+https://en.wikipedia.org/wiki/Affordance
+https://en.wikipedia.org/wiki/Autopoiesis
+https://en.wikipedia.org/wiki/Biocentric_universe
+https://en.wikipedia.org/wiki/Biological_interaction
 https://en.wikipedia.org/wiki/Bohm_Dialogue
+https://en.wikipedia.org/wiki/Cliodynamics
 https://en.wikipedia.org/wiki/Complex_system
+https://en.wikipedia.org/wiki/D%C3%A9tournement
 https://en.wikipedia.org/wiki/Ekphrasis
 https://en.wikipedia.org/wiki/Ensō
+https://en.wikipedia.org/wiki/Florilegium
 https://en.wikipedia.org/wiki/Froebel_gifts
+http://en.wikipedia.org/wiki/Gaia_hypothesis
+https://en.wikipedia.org/wiki/Heterarchy
+http://en.wikipedia.org/wiki/Heutagogy
+https://en.wikipedia.org/wiki/Holacracy
 https://en.wikipedia.org/wiki/Junto_(club)
-https://en.wikipedia.org/wiki/Rhizome
-https://en.wikipedia.org/wiki/%27Pataphysics
-https://en.wikipedia.org/wiki/Rhizome
-https://en.wikipedia.org/wiki/Novum
-https://en.wikipedia.org/wiki/Quixotism
 https://en.wikipedia.org/wiki/List_of_lists_of_lists
-https://en.wikipedia.org/wiki/World-systems_theory
-https://en.wikipedia.org/wiki/Soundscape_ecology
 https://en.wikipedia.org/wiki/Multimodality
+https://en.wikipedia.org/wiki/Novum
+https://en.wikipedia.org/wiki/Paratext
+https://en.wikipedia.org/wiki/%27Pataphysics
+https://en.wikipedia.org/wiki/Phenology
+https://en.wikipedia.org/wiki/Proxemics
 https://en.wikipedia.org/wiki/Quantum_fiction
+https://en.wikipedia.org/wiki/Quixotism
+https://en.wikipedia.org/wiki/Rhizome
+https://en.wikipedia.org/wiki/Social_judgment_theory
+https://en.wikipedia.org/wiki/Soundscape_ecology
+https://en.wikipedia.org/wiki/Spime
+https://en.wikipedia.org/wiki/World-systems_theory
 

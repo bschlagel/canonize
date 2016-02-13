@@ -20,7 +20,9 @@ body {
   box-sizing: border-box;
 }
 
+
 /* HEADER */
+
 #header {
   width: 460px;
   position: relative;
@@ -44,7 +46,9 @@ body {
   font-weight: bold;
 }
 
+
 /* CATEGORY */
+
 .category {
   position: relative;
   margin: 0px auto;
@@ -64,6 +68,7 @@ body {
   clear: both;
   font-weight: bold;
 }
+
 
 /* ITEM */
 
