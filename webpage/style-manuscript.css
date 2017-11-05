@@ -65,6 +65,7 @@ body {
 
 .toc-item:last-child {
   clear: all;
+  border-right: none;
 }
 
 
@@ -111,6 +112,16 @@ body {
   /*background-color: #F7F1F0;*/
   border: 1px solid #3E3333;
   /*border-radius: 3px;*/
+  -webkit-transition: all -webkit-transform .5s;
+  transition: all .5s;
+}
+
+.item:hover {
+  /*background-color: #dadada;*/
+  background-color: #ece1c6;
+  opacity: 0.75;
+  -webkit-transition: all -webkit-transform .5s;
+  transition: all .5s;
 }
 
 .item img {
@@ -130,6 +141,7 @@ body {
   font-weight: normal;
   padding: 15px;
   opacity: 1;
+
 }
 
 .item p {
@@ -193,12 +205,6 @@ a:hover {
 
 a:hover .item-title {
   opacity: .8;
-  -webkit-transition: all -webkit-transform .5s;
-  transition: all .5s;
-}
-
-.item:hover {
-  background-color: #dadada;
   -webkit-transition: all -webkit-transform .5s;
   transition: all .5s;
 }

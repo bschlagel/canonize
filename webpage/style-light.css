@@ -88,7 +88,7 @@ body {
   margin: 0px auto;
   text-align: center;
   padding: 50px 0 0 0;
-  overflow: auto;
+  overflow: visible;
   clear: both;
 }
 
