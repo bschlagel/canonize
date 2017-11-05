@@ -1,8 +1,6 @@
 Brendan Schlagel
-Personal Canon — Tinylist - Categorized
-February 2016
-
-
+Personal Canon — Shortlist - Categorized
+Last Updated: February 2016
 
 
 
@@ -297,7 +295,7 @@ Patrick is a prolific writer on topics from software development to online busin
 
 8 Forms of Capital [ARTICLE]
 http://www.appleseedpermaculture.com/8-forms-of-capital/
-I love writing that catalogs or taxonomizes an interesting concept, and this is one of the best, mapping out a fascinating variety of forms of capital (and corresponding currencies) far beyond our usual conception of the term. 
+I love writing that catalogs or taxonomizes an interesting concept, and this is one of the best, mapping out a fascinating variety of forms of capital (and corresponding currencies) far beyond our usual conception of the term.
 
 Heterarchy [IDEA]
 https://en.wikipedia.org/wiki/Heterarchy
@@ -401,7 +399,7 @@ It would be too easy to call Ben Franklin a genius; more importantly, he was a m
 Buster Benson's Codex Vitae [WEBSITE]
 https://github.com/busterbenson/public/blob/master/Codex.md
 Awesome personal catalog of ideas, beliefs, and more. Also includes his own “personal canon”! Super-well-realized ongoing open-source reflection; a useful template for us all.
-  
+
   SEE ALSO: 38 is great. Annual review of my favorite ideas.
   https://medium.com/@buster/38-is-great-5e72aa44b857#.f6xvtfcxy
   My favorite of Buster's “annual reviews”; this one contains a lot of really great ideas including the seed of the “codex vitae”.
@@ -498,4 +496,3 @@ One of the all-time great group blogs, by a cadre a whip-smart and highly creati
   SEE ALSO: stock and flow
   http://snarkmarket.com/2010/4890
   Influential way of thinking about the constant stream vs. the enduring artifacts that combine to make up our current media landscape and online creative output.
-

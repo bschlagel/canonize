@@ -1,5 +1,3 @@
-@import url(http://reset5.googlecode.com/hg/reset.min.css);
-
 body {
   font-family: "Alegreya", serif;
   color: #000000;
@@ -244,7 +242,7 @@ strong {
 }
 
 @media screen and (min-width:640px) and (max-width:900px) {
-  .item:nth-child(2n+1) {  
+  .item:nth-child(2n+1) {
     clear: both;
   }
   .item {
@@ -255,7 +253,7 @@ strong {
 
 
 @media screen and (min-width:900px){
-  .item:nth-child(3n+3) {  
+  .item:nth-child(3n+3) {
     clear: both;
   }
   .item {
