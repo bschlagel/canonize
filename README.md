@@ -39,4 +39,5 @@ I made three starter themes, each a simple CSS files you can use for your canon 
 
 ## Have a “/canon” page of your own? Add to this list and submit a PR :)
 - [Brendan Schlagel](https://www.brendanschlagel.com/canon/) (my current canon, in situ)
-- [Your Canon page goes here…?!]
+- [Ilhan Ozgen](https://ilhanozgenxian.com/canon/)
+- [Your Canon page goes here...?!]
